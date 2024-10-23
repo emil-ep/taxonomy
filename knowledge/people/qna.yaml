@@ -1,16 +1,18 @@
-created_by: emil-ep
-version: 1
+version: 3
 domain: people
+created_by: emil-ep
 seed_examples:
   - context: |
-      Elattuvalapil Sreedharan  (born 12 June 1932) is an Indian engineer and politician from the Indian state of Kerala. 
-      He is credited with changing the face of public transport in India with his leadership in building the Konkan Railway and the Delhi Metro while he served as the managing director of Delhi Metro Rail Corporation (DMRC) between 1995 and 2012. 
-      He is also Known as the Metro Man
+      Elattuvalapil Sreedharan  (born 12 June 1932) is an Indian engineer and politician from the Indian state of
+      Kerala. He is credited with changing the face of public transport in India with his leadership
+      in building the Konkan Railway and the Delhi Metro while he served as the managing director of Delhi
+      Metro Rail Corporation (DMRC) between 1995 and 2012. He is also Known as the Metro Man
     questions_and_answers:
       - question: |
           Who is Elattuvalapil Sreedharan
-        answer:
-          Elattuvalapil Sreedharan is an Indian Engineer and Politician from Indian State of Kerala. He is also known as the Metro man
+        answer: |
+          Elattuvalapil Sreedharan is an Indian Engineer and Politician from Indian State of Kerala.
+          He is also known as the Metro man
       - question: |
           Who is known as the Metro man ?
         answer:
@@ -26,23 +28,34 @@ seed_examples:
       - question: |
           What is E Sreedharan doing ?
         answer:
-          E Sreedharan is a retired Engineer and a politician from Indian state of Kerala. 
-          He is credited with changing the face of public transport in India with his leadership in building the Konkan Railway and the Delhi Metro while he served as the managing director of Delhi Metro Rail Corporation (DMRC) between 1995 and 2012
+          E Sreedharan is a retired Engineer and a politician from Indian state of Kerala.
+          He is credited with changing the face of public transport in India with his leadership
+          in building the Konkan Railway and the Delhi Metro while he served as the managing director of
+          Delhi Metro Rail Corporation (DMRC) between 1995 and 2012
       - question: |
           What is E sreedharan known for ?
         answer:
-          E Sreedharan is known for changing the face of public transport in India. 
-          He is credited with changing the face of public transport in India with his leadership in building the Konkan Railway and the Delhi Metro while he served as the managing director of Delhi Metro Rail Corporation (DMRC) between 1995 and 2012
+          E Sreedharan is known for changing the face of public transport in India.
+          He is credited with changing the face of public transport in India with his leadership in
+          building the Konkan Railway and the Delhi Metro while he served as the managing director
+          of Delhi Metro Rail Corporation (DMRC) between 1995 and 2012
       - question: |
           Why E Sreedharan is known as the metro man in India ?
         answer:
-          His contributions in public transport system in India especially building the metro systems made him the metro man of India.E Sreedharan is known for changing the face of public transport and his leadership in building the Konkan Railway and the Delhi Metro while he served as the managing director of Delhi Metro Rail Corporation (DMRC) between 1995 and 2012
+          His contributions in public transport system in India especially building
+          the metro systems made him the metro man of India.E Sreedharan is known for changing the
+          face of public transport and his leadership in building the Konkan Railway and the Delhi
+          Metro while he served as the managing director of Delhi Metro Rail Corporation (DMRC) between 1995 and 2012
   - context: |
-      E Sreedharan was awarded the Padma Shri by the Government of India in 2001, the Padma Vibhushan in 2008, 
-      the Chevalier de la Legion of Honour in 2005 by the Government of France and was named one of Asia's Heroes by Time magazine in 2003. 
-      Sreedharan was appointed by the former UN Secretary General Ban Ki-moon to serve on the United Nations's High Level Advisory Group on Sustainable Transport (HLAG-ST) for a period of three years in 2015. 
-      He is a member of Mata Vaishno Devi Shrine Board. He briefly served as a national executive council member of Bharatiya Janata Party, but later quit active politics in December 2021. 
-      He also worked as an advisor of Dhaka Metro authority which is called Dhaka Mass Transit Company Limited under the Railway Ministry of Bangladesh.
+      E Sreedharan was awarded the Padma Shri by the Government of India in 2001, the Padma Vibhushan in 2008,
+      the Chevalier de la Legion of Honour in 2005 by the Government of France and was named one of Asia's
+      Heroes by Time magazine in 2003. Sreedharan was appointed by the former UN Secretary
+      General Ban Ki-moon to serve on the United Nations's High Level Advisory Group on Sustainable Transport (HLAG-ST)
+      for a period of three years in 2015. He is a member of Mata Vaishno Devi Shrine Board.
+      He briefly served as a national executive council member of Bharatiya Janata Party,
+      but later quit active politics in December 2021. He also worked as an advisor of
+      Dhaka Metro authority which is called Dhaka Mass Transit Company Limited under
+      the Railway Ministry of Bangladesh.
     questions_and_answers:
       - question: |
           When was E Sreedharan awarded the Padma Shri by Indian Government ?
@@ -63,70 +76,75 @@ seed_examples:
       - question: |
           What was the position served by E Sreedharan for HLAG-ST (High level Advisory group on Sustainable transport)?
         answer:
-          Sreedharan was appointed by the former UN Secretary General Ban Ki-moon to serve on the United Nations's High Level Advisory Group on Sustainable Transport (HLAG-ST) for a period of three years in 2015
+          Sreedharan was appointed by the former UN Secretary General Ban Ki-moon
+          to serve on the United Nations's High Level Advisory Group on Sustainable Transport (HLAG-ST)
+          for a period of three years in 2015
       - question: |
           In which political party did E Sreedharan serve in India?
         answer:
-          Sreedharan briefly served as a national executive council member of Bharatiya Janata Party, but later quit active politics in December 2021
+          Sreedharan briefly served as a national executive council member of
+          Bharatiya Janata Party, but later quit active politics in December 2021
       - question: |
           What position did E Sreedharan serve in Bangladesh?
         answer:
-          Sreedharan worked as an advisor of Dhaka Metro authority which is called Dhaka Mass Transit Company Limited under the Railway Ministry of Bangladesh
+          Sreedharan worked as an advisor of Dhaka Metro authority which is called
+          Dhaka Mass Transit Company Limited under the Railway Ministry of Bangladesh
       - question: |
           In which political party did E Sreedharan serve?
         answer:
-          E Sreedharan breifly served as a national executive council member of Bharatiya Janatha Party (BJP) but quit politics in December 2021
+          E Sreedharan breifly served as a national executive council member of
+          Bharatiya Janatha Party (BJP) but quit politics in December 2021
   - context: |
-      E. Sreedharan was born on 12 June 1932 in present-day Karukaputhur, Palakkad District, Kerala, India into a Hindu Malayali family to Keezhveettil Neelakandan Moosath and Ammaluamma. 
-      Sreedharan's primary education was from Government Lower Primary School Chathannur near Pattambi in Palakkad district. 
-      He completed his education at the Basel Evangelical Mission Higher Secondary School and then went to the Victoria College in Palghat. He later-on completed his Civil Engineering degree from the Government Engineering College, Kakinada, Andhra Pradesh, presently known as Jawaharlal Nehru Technological University.
+      E. Sreedharan was born on 12 June 1932 in present-day Karukaputhur, Palakkad District, Kerala,
+      India into a Hindu Malayali family to Keezhveettil Neelakandan Moosath and Ammaluamma.
+      Sreedharan's primary education was from Government Lower Primary School
+      Chathannur near Pattambi in Palakkad district.
+      He completed his education at the Basel Evangelical Mission Higher Secondary School and
+      then went to the Victoria College in Palghat.
+      He later-on completed his Civil Engineering degree from the Government Engineering College,
+      Kakinada, Andhra Pradesh, presently known as Jawaharlal Nehru Technological University.
     questions_and_answers:
       - question: |
           Where was E Sreedharan born?
         answer:
-          E Sreedharan was born on 12 June 1932 in present-day Karukaputhur, Palakkad District, Kerala, India into a Hindu Malayali family to Keezhveettil Neelakandan Moosath and Ammaluamma
+          E Sreedharan was born on 12 June 1932 in present-day Karukaputhur,
+          Palakkad District, Kerala, India into a Hindu Malayali family to
+          Keezhveettil Neelakandan Moosath and Ammaluamma
       - question: |
           Where did E Sreedharan study?
         answer:
-          Sreedharan's primary education was from Government Lower Primary School Chathannur near Pattambi in Palakkad district. He completed his education at the Basel Evangelical Mission Higher Secondary School and then went to the Victoria College in Palghat. He later-on completed his Civil Engineering degree from the Government Engineering College, Kakinada, Andhra Pradesh, presently known as Jawaharlal Nehru Technological University.
+          Sreedharan's primary education was from Government Lower Primary School
+          Chathannur near Pattambi in Palakkad district. He completed his education
+          at the Basel Evangelical Mission Higher Secondary School and then went to the Victoria College
+          in Palghat. He later-on completed his Civil Engineering degree from the
+          Government Engineering College, Kakinada, Andhra Pradesh,
+          presently known as Jawaharlal Nehru Technological University.
       - question: |
           When was E Sreedharan born ?
         answer:
           E Sreedharan was born on 12 June 1932
   - context: |
-      E. Sreedharan was born on 12 June 1932 in present-day Karukaputhur, Palakkad District, Kerala, India into a Hindu Malayali family to Keezhveettil Neelakandan Moosath and Ammaluamma. 
-      Sreedharan's primary education was from Government Lower Primary School Chathannur near Pattambi in Palakkad district. 
-      He completed his education at the Basel Evangelical Mission Higher Secondary School and then went to the Victoria College in Palghat. He later-on completed his Civil Engineering degree from the Government Engineering College, Kakinada, Andhra Pradesh, presently known as Jawaharlal Nehru Technological University.
+      For a short period, Sreedharan worked as a lecturer in Civil engineering
+      at the Government Polytechnic, Kozhikode and a year at the Bombay Port Trust as an apprentice.
+      He subsequently joined the Indian Railway Service of Engineers (IRSE),
+      after clearing the Indian Engineering Services Exam in 1953 conducted by the UPSC.
+      His first assignment was in the Southern Railway as a
+      Probationary Assistant Engineer in December 1954.
     questions_and_answers:
       - question: |
-          Where was E Sreedharan born?
+          Did E Sreedharan serve at Government Polytechnic, Kozhikode?
         answer:
-          E Sreedharan was born on 12 June 1932 in present-day Karukaputhur, Palakkad District, Kerala, India into a Hindu Malayali family to Keezhveettil Neelakandan Moosath and Ammaluamma
+          yes, Sreedharan served for a short period at the Government Polytechnic, Kozhikode
       - question: |
-          Where did E Sreedharan study?
+          What was E Sreedharan's first assignment?
         answer:
-          Sreedharan's primary education was from Government Lower Primary School Chathannur near Pattambi in Palakkad district. He completed his education at the Basel Evangelical Mission Higher Secondary School and then went to the Victoria College in Palghat. He later-on completed his Civil Engineering degree from the Government Engineering College, Kakinada, Andhra Pradesh, presently known as Jawaharlal Nehru Technological University.
+          E Sreedharan's first assignment was in Southern Railway as a
+          Probationary Assistant Engineer in December 1954
       - question: |
-          When was E Sreedharan born ?
+          When did E Sreedharan join Indian Railway Service?
         answer:
-          E Sreedharan was born on 12 June 1932
-  - context: |
-      E. Sreedharan was born on 12 June 1932 in present-day Karukaputhur, Palakkad District, Kerala, India into a Hindu Malayali family to Keezhveettil Neelakandan Moosath and Ammaluamma. 
-      Sreedharan's primary education was from Government Lower Primary School Chathannur near Pattambi in Palakkad district. 
-      He completed his education at the Basel Evangelical Mission Higher Secondary School and then went to the Victoria College in Palghat. He later-on completed his Civil Engineering degree from the Government Engineering College, Kakinada, Andhra Pradesh, presently known as Jawaharlal Nehru Technological University.
-    questions_and_answers:
-      - question: |
-          Where was E Sreedharan born?
-        answer:
-          E Sreedharan was born on 12 June 1932 in present-day Karukaputhur, Palakkad District, Kerala, India into a Hindu Malayali family to Keezhveettil Neelakandan Moosath and Ammaluamma
-      - question: |
-          Where did E Sreedharan study?
-        answer:
-          Sreedharan's primary education was from Government Lower Primary School Chathannur near Pattambi in Palakkad district. He completed his education at the Basel Evangelical Mission Higher Secondary School and then went to the Victoria College in Palghat. He later-on completed his Civil Engineering degree from the Government Engineering College, Kakinada, Andhra Pradesh, presently known as Jawaharlal Nehru Technological University.
-      - question: |
-          When was E Sreedharan born ?
-        answer:
-          E Sreedharan was born on 12 June 1932
+          E Sreedharan joined Indian Railway Service of Engineers (IRSE) after clearing
+          Indian Engineering Services Exam in 1953
 document_outline: |
   Information about the E Sreedharan also known as metro man of India in the Indian political landscape
 document:
