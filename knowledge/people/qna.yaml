@@ -167,6 +167,29 @@ seed_examples:
           E Sreedharan was made the managing director of Delhi Metro Rail Corporation by then Delhi Chief Minister
           Sahib Singh Verma.
       - question: |
+          After becoming Managing director of Delhi Metro Rail corporation (DMRC),
+          what were the accomplishment of E Sreedharan?
+        answer:
+          E Sreedharan was made the managing director of Delhi Metro Rail Corporation by
+          then Delhi Chief Minister Sahib Singh Verma and by mid 1997 all
+          the scheduled sections were completed by their target date or before,
+          and within their respective budgets
+      - question: |
+          Who gave the title Metro man to E Sreedharan?
+        answer:
+          Media gave E Sreedharan the title of Metro man for his grand success
+          in executing the completion of the Delhi Metro.
+      - question: |
+          When was E Sreedharan awarded the Chevalier de la Légion d'honneur?
+        answer:
+          E Sreedharan  was awarded the Chevalier de la Légion d'honneur
+          (Knight of the Legion of Honour) by the government of France in 2005
+      - question: |
+          When was E Sreedharan awarded the Padma Vibhushan?
+        answer:
+          E Sreedharan was awarded the Padma Vibhushan in 2008
+          by the Government of India
+
           
 document_outline: |
   Information about the E Sreedharan also known as metro man of India in the Indian political landscape
