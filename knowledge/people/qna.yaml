@@ -145,6 +145,29 @@ seed_examples:
         answer:
           E Sreedharan joined Indian Railway Service of Engineers (IRSE) after clearing
           Indian Engineering Services Exam in 1953
+  - context: |
+      E Sreedharan was made the managing director of Delhi Metro Rail Corporation by then Delhi Chief Minister
+      Sahib Singh Verma and by mid 1997 all the scheduled sections were completed by their
+      target date or before, and within their respective budgets. Sreedharan was given the
+      sobriquet of Metro Man by the media for his grand success in executing the completion
+      of the Delhi Metro. His stint in the Delhi Metro has been considered so successful and
+      crucial to India that in 2005, he was awarded the
+      Chevalier de la Légion d'honneur (Knight of the Legion of Honour) by the government of France,
+      and the Padma Vibhushan by the government of India in 2008. There were also demands
+      by prominent political figures that Sreedharan be awarded the Bharat Ratna,
+      the most prestigious civilian award in India. He was particularly known for isolating his
+      projects from political pressures and influences and winning political commitments for fast
+      execution of projects. He had announced that he would retire by the end of 2005, but his
+      tenure was further extended to oversee the completion of the second phase of Delhi Metro.
+      After 16 years of service with the Delhi Metro, Sreedharan retired from service on 31 December 2011.
+    questions_and_answers:
+      - question: |
+          Who made Sreedharan the Managing director of Delhi Metro Rail Corporation?
+        answer:
+          E Sreedharan was made the managing director of Delhi Metro Rail Corporation by then Delhi Chief Minister
+          Sahib Singh Verma.
+      - question: |
+          
 document_outline: |
   Information about the E Sreedharan also known as metro man of India in the Indian political landscape
 document:
